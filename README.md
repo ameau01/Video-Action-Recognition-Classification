@@ -1,9 +1,14 @@
-# Video Action Recognition Classification (CSCA-5642 Final Project)
+# Video Action Recognition Classification 
 
+(CSCA-5642 Final Project)
 This repository contains a **deep learning solution for human action recognition (HAR)** from video clips using spatial-temporal modeling. The task is to classify short video sequences into action categories (e.g., kayaking, horse riding, tennis swing) by learning motion and appearance patterns from raw video data.
 
 Action recognition (a form of video classification) is fundamental in computer vision with applications in sports analytics, robotics, surveillance systems, and human–machine interaction.
 
+- Kaggle Notebook: https://www.kaggle.com/code/alexandermeau/video-action-recognition-classification
+- Author: Alexander Meau
+- Email: ameau01@gmail.com
+  
 ---
 
 ## Project Summary
